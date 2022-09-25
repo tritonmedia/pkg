@@ -1,6 +1,6 @@
 module github.com/tritonmedia/pkg
 
-go 1.14
+go 1.19
 
 require (
 	github.com/blang/semver/v4 v4.0.0
